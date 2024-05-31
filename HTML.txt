@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GIGA Ministry</title>
+  <style>
+    /* CSS Styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f8ff; /* Light Blue */
+    }
+    header {
+      background-color: #000080; /* Blue */
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    nav {
+      background-color: #ffc0cb; /* Pink */
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 20px;
+      color: #000080; /* Blue */
+      text-decoration: none;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background-color: #000080; /* Blue */
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GIGA Ministry</h1>
+  </header>
+  <nav>
+    <a href="#about">ABOUT GIGA MINISTRY</a>
+    <a href="#projects">PROJECTS</a>
+    <a href="#contact">CONTACT INFORMATION</a>
+    <a href="#work">WORK</a>
+    <a href="#events">EVENTS</a>
+  </nav>
+  <section id="about">
+    <h2>About GIGA Ministry</h2>
+    <p>Welcome to the official website of GIGA Ministry! We are dedicated to empowering individuals and communities through faith, service, and innovation. Our mission is to inspire positive change and foster a sense of community and belonging. Whether you're looking to get involved, learn more about our projects, or connect with us, you've come to the right place.</p>
+    <p>"For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, plans to give you hope and a future." - Jeremiah 29:11</p>
+  </section>
+  <section id="history">
+    <h2>History</h2>
+    <p>GIGA Ministry was founded in 2020 by Minister Brian Fanaka, born out of a divine revelation. What began as a small group gathering has blossomed into a vibrant and dynamic ministry dedicated to transforming lives and communities through faith, service, and innovation. Inspired by a calling to spread the Gospel and create a supportive spiritual community, Minister Fanaka envisioned a ministry that would go beyond the walls of traditional church settings and reach people in all walks of life.</p>
+  </section>
+  <section id="vision">
+    <h2>Vision</h2>
+    <p>The vision of GIGA Ministry is to be a transformative force in the world, guided by the principles of faith, love, and service. We envision a global community where individuals are empowered to live out their faith boldly, experiencing the fullness of God's grace and extending His kingdom on earth.</p>
+    <ul>
+      <li>Spiritual Growth: Nurturing a deep and personal relationship with God through worship, prayer, and biblical teaching.</li>
+      <li>Community Engagement: Building strong, supportive communities that reflect the love and compassion of Christ.</li>
+      <li>Global Outreach: Expanding our reach to share the Gospel and provide support to individuals and communities worldwide.</li>
+      <li>Innovative Ministry: Utilizing creative and innovative approaches to ministry that resonate with people of all ages and backgrounds.</li>
+      <li>Holistic Development: Addressing the spiritual, emotional, and physical needs of individuals to foster holistic growth and well-being.</li>
+    </ul>
+  </section>
+  <section id="mission">
+    <h2>Mission</h2>
+    <p>At GIGA Ministry, our mission is rooted in two core objectives: saving souls and advancing God's kingdom. We are committed to:</p>
+    <ul>
+      <li>Saving Souls: Leading individuals to a personal relationship with Jesus Christ by sharing the message of His love, grace, and salvation. Through evangelism, discipleship, and spiritual mentoring, we aim to guide people on their journey of faith and help them discover their purpose in God's plan.</li>
+      <li>Advancing God's Kingdom: Working tirelessly to manifest God's kingdom on earth by promoting justice, peace, and love. We believe in the transformative power of the Gospel to bring about positive change in individuals and communities.</li>
+    </ul>
+  </section>
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>Details about our projects will be added here.</p>
+  </section>
+  <section id="contact">
+    <h2>Contact Information</h2>
+    <p>To learn more about our ministry, upcoming events, or how you can get involved, please reach out to us. Your participation can make a profound impact in our community and beyond.</p>
+    <p><strong>Contact GIGA Ministry Admin: 0796747082</strong></p>
+  </section>
+  <section id="work">
+    <h2>Work</h2>
+    <p>Information about the work or services provided by GIGA Ministry will be added here.</p>
+  </section>
+  <section id="events">
+    <h2>Featured Events and Upcoming Activities</h2>
+    <ul>
+      <li><strong>Community Outreach Day</strong><br>Date: June 15, 2024<br>Join us for a day of service and fellowship as we reach out to our local community. We'll be offering free meals, clothing, and support services to those in need. Come be a part of making a difference in the lives of others.</li>
+      <li><strong>Youth Revival Night</strong><br>Date: July 10, 2024<br>An evening dedicated to our youth, featuring worship, inspirational messages, and engaging activities. This event aims to ignite a passion for Christ in the hearts of young people and encourage them to live out their faith boldly.</li>
+      <li><strong>Prayer and Healing Service</strong><br>Date: August 5, 2024<br>A special service focused on prayer, healing, and restoration. Come experience the power of collective prayer and receive spiritual and physical healing. All are welcome to join us for this powerful evening.</li>
+      <li><strong>Women's Retreat</strong><br>Date: September 20-22, 2024<br>A weekend getaway for the women of our ministry to connect, rejuvenate, and grow in their faith. The retreat will include workshops, worship sessions, and opportunities for personal reflection and fellowship.</li>
+      <li><strong>Mission Trip to Honduras</strong><br>Date: October 14-21, 2024<br>We are embarking on a mission trip to Honduras to support local communities with essential supplies, educational programs, and spiritual guidance. This is a wonderful opportunity to serve internationally and share God's love with others.</li>
+      <li><strong>Annual Thanksgiving Banquet</strong><br>Date: November 28, 2024<br>Celebrate Thanksgiving with us at our annual banquet. This event includes a delicious meal, live music, and a time to give thanks for the blessings of the year. It’s a perfect occasion for fellowship and gratitude.</li>
+      <li><strong>Christmas Celebration Service</strong><br>Date: December 24, 2024<br>Join us for a joyous Christmas Eve service as we celebrate the birth of our Savior, Jesus Christ. The service will include carols, a Christmas message, and a special candlelight ceremony. Bring your family and friends to this festive event.</li>
+    </ul>
+  </section>
+  <footer>
+    <p>&copy; 2024 GIGA Ministry</p>
+  </footer>
+</body>
+</html>
